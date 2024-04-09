@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install the required Python dependencies using pip:
-   pip install -r requirements.txt
+   '''pip install -r requirements.txt'''
 4. Ensure Node.js is installed on your machine.
 5. Install the required Node modules for the web application:
    npm install
